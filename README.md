@@ -1,7 +1,7 @@
 # BlackjackSimulator
 Project Name: Blackjack Casino Simulator
 
-Authors: Theo K. Valverde, Kyle Bender, Dakari Antoine
+Authors: T. K. Valverde, Kyle Bender, Dakari Antoine
 
 Texas State University
 
